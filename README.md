@@ -1,12 +1,8 @@
-
-<!-- GitHub Profile README | Nishant Kumar -->
-
-<div align="center">
+<!-- GitHub Profile README | Nishant Kumar | github.com/nishanttcpr62 --><div align="center">
   <h1>Hey there! I'm Nishant Kumar 👋</h1>
   <h3>Frontend Developer • Full-Stack Learner • Based in India 🇮🇳</h3>
   <p>
-    I enjoy building clean, responsive websites and turning
-    creative ideas into useful web experiences.
+    I enjoy building clean, responsive websites and turning creative ideas into useful web experiences.
   </p>
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=900&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=630&amp;lines=Frontend+Developer+%26+Full-Stack+Learner;Building+responsive+web+experiences;Learning+something+new+every+day" alt="Animated introduction: frontend developer and full-stack learner" />
@@ -16,23 +12,15 @@
     <a href="mailto:nishanttcpr62@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email-Let's%20Connect-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
     <a href="https://instagram.com/_nishaantttt_01"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" /></a>
   </p>
-</div>
-
----
-
-### 👨‍💻 About me
-
-- 🔭 **Building:** a personal portfolio and experimenting with modern website UI/UX.
-- 💻 **Focused on:** HTML, CSS, responsive design, and JavaScript.
-- 🌱 **Learning:** C++, Python, and full-stack web development concepts.
-- 🤝 **Open to:** collaborating on beginner-friendly frontend and open-source projects.
-- 💬 **Ask me about:** frontend development, web interfaces, and what I'm learning.
-- 📫 **Email:** [nishanttcpr62@gmail.com](mailto:nishanttcpr62@gmail.com)
-
-### 🧰 Tech stack
-
-**Frontend & workflow**
-
+</div>👨‍💻 About me
+- 🔭 Building: a personal portfolio and experimenting with modern website UI/UX.
+- 💻 Focused on: HTML, CSS, responsive design, and JavaScript.
+- 🌱 Learning: C++, Python, and full-stack web development concepts.
+- 🤝 Open to: collaborating on beginner-friendly frontend and open-source projects.
+- 💬 Ask me about: frontend development, web interfaces, and what I'm learning.
+- 📫 Email: nishanttcpr62@gmail.com
+🧰 Tech stack
+Frontend & workflow
 <p>
   <img alt="HTML5" title="HTML5" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
   <img alt="CSS3" title="CSS3" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
@@ -41,9 +29,7 @@
   <img alt="Git" title="Git" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
   <img alt="GitHub" title="GitHub" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
-
-**Currently exploring**
-
+Currently exploring
 <p>
   <img alt="React" title="React" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
   <img alt="Node.js" title="Node.js" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;
@@ -51,73 +37,46 @@
   <img alt="MongoDB" title="MongoDB" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&nbsp;
   <img alt="C++" title="C++" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;
   <img alt="Python" title="Python" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</p>
+</p>🚀 Featured work
+Project	What it is	Status
+🏛️ Jagdam College website concept	A college website interface concept, currently shared as HTML code in the repository README.	Public repository
+👤 GitHub profile	My developer introduction, projects, and automatically generated analytics.	Public repository
+🌐 Personal Portfolio	A home for my projects, skills, and developer journey.	In progress
+🎓 CampusOS LMS	An ongoing learning project exploring a college learning management system.	In development
 
-### 🚀 Featured work
 
-| Project | What it is | Status |
-|:--|:--|:--|
-| 🏛️ [Jagdam College website concept](https://github.com/nishanttcpr62/data-anlytics-course-) | A college website interface concept, currently shared as HTML code in the repository README. | Public repository |
-| 👤 [GitHub profile](https://github.com/nishanttcpr62/nishanttcpr62) | My developer introduction, projects, and automatically generated analytics. | Public repository |
-| 🌐 Personal Portfolio | A home for my projects, skills, and developer journey. | In progress |
-| 🎓 CampusOS LMS | An ongoing learning project exploring a college learning management system. | In development |
+✨ More published projects coming as I build and learn.
 
-> ✨ More published projects coming as I build and learn.
-
-### 📊 GitHub analytics
-
-*These cards are generated by GitHub Actions and stored in this repository. They update automatically after the workflow is set up.*
-
+📊 GitHub analytics
+These cards are generated by GitHub Actions and stored in this repository. They update automatically after the workflow is set up.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
   <img src="./assets/overview.light.svg" alt="GitHub overview: public repositories, stars, contributions, and followers" width="100%" />
-</picture>
-
-### 🔥 Contributions & streaks
-
+</picture>🔥 Contributions & streaks
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
   <img src="./assets/contributions.light.svg" alt="Contribution calendar and current/longest streaks" width="100%" />
-</picture>
-
-### 📈 Contribution activity graph
-
+</picture>📈 Contribution activity graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg" />
   <img src="./assets/momentum.light.svg" alt="Contribution activity over time" width="100%" />
-</picture>
-
-### 🗓️ Contribution history
-
+</picture>🗓️ Contribution history
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
   <img src="./assets/lifetime.light.svg" alt="Weekly contribution heatmap by year" width="100%" />
-</picture>
-
-### ⌨️ Commit activity graph
-
+</picture>⌨️ Commit activity graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" />
   <img src="./assets/cadence.light.svg" alt="Commit activity by weekday and hour" width="100%" />
-</picture>
-
-### 🏆 Most active repositories
-
+</picture>🏆 Most active repositories
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
   <img src="./assets/repositories.light.svg" alt="Most active public repositories" width="100%" />
-</picture>
-
-### 💻 Languages in my repositories
-
+</picture>💻 Languages in my repositories
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
   <img src="./assets/languages.light.svg" alt="Programming language distribution in public repositories" width="100%" />
-</picture>
-
----
-
-<div align="center">
+</picture><div align="center">
   <h3>🤝 Let's connect</h3>
   <p>
     <a href="https://github.com/nishanttcpr62">GitHub</a> •
