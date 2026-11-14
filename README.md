@@ -1,87 +1,76 @@
-<!-- GitHub Profile README | Nishant Kumar | github.com/nishanttcpr62 --><div align="center">
-  <h1>Hey there! I'm Nishant Kumar 👋</h1>
-  <h3>Frontend Developer • Full-Stack Learner • Based in India 🇮🇳</h3>
-  <p>
-    I enjoy building clean, responsive websites and turning creative ideas into useful web experiences.
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=900&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=630&amp;lines=Frontend+Developer+%26+Full-Stack+Learner;Building+responsive+web+experiences;Learning+something+new+every+day" alt="Animated introduction: frontend developer and full-stack learner" />
-  </p>
-  <p>
-    <a href="https://github.com/nishanttcpr62?tab=repositories"><img alt="My repositories" src="https://img.shields.io/badge/Explore-My%20Repositories-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-    <a href="mailto:nishanttcpr62@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email-Let's%20Connect-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-    <a href="https://instagram.com/_nishaantttt_01"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" /></a>
-  </p>
-</div>👨‍💻 About me
-- 🔭 Building: a personal portfolio and experimenting with modern website UI/UX.
-- 💻 Focused on: HTML, CSS, responsive design, and JavaScript.
-- 🌱 Learning: C++, Python, and full-stack web development concepts.
-- 🤝 Open to: collaborating on beginner-friendly frontend and open-source projects.
-- 💬 Ask me about: frontend development, web interfaces, and what I'm learning.
-- 📫 Email: nishanttcpr62@gmail.com
-🧰 Tech stack
-Frontend & workflow
-<p>
-  <img alt="HTML5" title="HTML5" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
-  <img alt="CSS3" title="CSS3" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
-  <img alt="JavaScript" title="JavaScript" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
-  <img alt="Bootstrap" title="Bootstrap" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;
-  <img alt="Git" title="Git" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
-  <img alt="GitHub" title="GitHub" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-</p>
-Currently exploring
-<p>
-  <img alt="React" title="React" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
-  <img alt="Node.js" title="Node.js" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;
-  <img alt="Express" title="Express" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />&nbsp;
-  <img alt="MongoDB" title="MongoDB" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&nbsp;
-  <img alt="C++" title="C++" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;
-  <img alt="Python" title="Python" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</p>🚀 Featured work
-Project	What it is	Status
-🏛️ Jagdam College website concept	A college website interface concept, currently shared as HTML code in the repository README.	Public repository
-👤 GitHub profile	My developer introduction, projects, and automatically generated analytics.	Public repository
-🌐 Personal Portfolio	A home for my projects, skills, and developer journey.	In progress
-🎓 CampusOS LMS	An ongoing learning project exploring a college learning management system.	In development
+<!-- Nishant Kumar | GitHub profile README -->
+<div align="center"><img src="./macbook-hero.svg" width="100%" alt="MacBook-style terminal banner: Nishant Kumar, frontend developer and full-stack learner" />Hi, I'm Nishant! 👋
+Frontend Developer · Full-Stack Learner · India 🇮🇳
+
+I love designing responsive websites, exploring new tools, and building projects one step at a time.
+
+🌐 Explore my projects   •   ✉️ Email me   •   📸 Instagram
+</div>⌘ About me
+const nishant = {
+  username: "nishanttcpr62",
+  role: "Frontend Developer & Full-Stack Learner",
+  location: "India",
+  currentProject: "Personal Portfolio",
+  learning: ["JavaScript", "C++", "Python", "Full-Stack Development"],
+  interests: ["Modern UI", "Responsive Web Design", "Building Projects"],
+  motto: "Keep learning. Keep building."
+};
+- 🔭 Working on: my personal portfolio and website interfaces.
+- 🌱 Learning: JavaScript, C++, Python, and full-stack development.
+- 🎯 Goal: become a stronger frontend developer by building real projects.
+- 🤝 Open to: beginner-friendly collaboration and sharing ideas.
+- 📬 Contact: nishanttcpr62@gmail.com
+🍎 Developer dock
+<div align="center">
+  <img src="./mac-dock.svg" width="100%" alt="macOS inspired dock with HTML, CSS, JavaScript, Bootstrap, Git, React, Node.js, Python, C++ and MongoDB icons" />
+</div>Frontend: HTML5 · CSS3 · JavaScript · Bootstrap
+
+Developer tools: Git · GitHub · VS Code
+
+Exploring: React · Node.js · Express · MongoDB · C++ · Python
+<details>
+<summary><b>📚 Open my learning toolkit</b></summary>
+<br>
+HTML · CSS · JavaScript · React · Node.js · Git · Python · C++
+</details>🚀 Featured work
+Project	Description	Explore
+🏛️ Jagdam College Website Concept	College website layout and responsive UI concept; HTML is currently shared in the repository README.	View repository
+👨‍💻 My GitHub Profile	This macOS-inspired profile, developer dock, and self-hosted statistics cards.	View source
 
 
-✨ More published projects coming as I build and learn.
+Currently building: Personal Portfolio · Exploring full-stack app development
+📊 My GitHub at a glance
+Cards are updated by a GitHub Actions workflow. They appear after its first successful run.
 
-📊 GitHub analytics
-These cards are generated by GitHub Actions and stored in this repository. They update automatically after the workflow is set up.
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-  <img src="./assets/overview.light.svg" alt="GitHub overview: public repositories, stars, contributions, and followers" width="100%" />
-</picture>🔥 Contributions & streaks
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <img src="./assets/overview.light.svg" alt="GitHub overview: total repositories, stars, followers, and contributions" width="100%">
+</picture>🟩 Contributions & streaks
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
-  <img src="./assets/contributions.light.svg" alt="Contribution calendar and current/longest streaks" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <img src="./assets/contributions.light.svg" alt="Contribution streak and calendar" width="100%">
 </picture>📈 Contribution activity graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg" />
-  <img src="./assets/momentum.light.svg" alt="Contribution activity over time" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg">
+  <img src="./assets/momentum.light.svg" alt="GitHub contribution activity across time" width="100%">
 </picture>🗓️ Contribution history
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
-  <img src="./assets/lifetime.light.svg" alt="Weekly contribution heatmap by year" width="100%" />
-</picture>⌨️ Commit activity graph
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
+  <img src="./assets/lifetime.light.svg" alt="Year-by-year contribution heatmap" width="100%">
+</picture>⌨️ Commit activity
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" />
-  <img src="./assets/cadence.light.svg" alt="Commit activity by weekday and hour" width="100%" />
-</picture>🏆 Most active repositories
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg">
+  <img src="./assets/cadence.light.svg" alt="Commit frequency by weekday and hour" width="100%">
+</picture>🏅 Most active repositories
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
-  <img src="./assets/repositories.light.svg" alt="Most active public repositories" width="100%" />
-</picture>💻 Languages in my repositories
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg">
+  <img src="./assets/repositories.light.svg" alt="Most active public repositories and their stats" width="100%">
+</picture>🧑‍💻 Languages used across my public code
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
-  <img src="./assets/languages.light.svg" alt="Programming language distribution in public repositories" width="100%" />
-</picture><div align="center">
-  <h3>🤝 Let's connect</h3>
-  <p>
-    <a href="https://github.com/nishanttcpr62">GitHub</a> •
-    <a href="https://instagram.com/_nishaantttt_01">Instagram</a> •
-    <a href="mailto:nishanttcpr62@gmail.com">Email</a>
-  </p>
-  <sub>Thanks for visiting! Keep learning, keep building. 🚀</sub>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+  <img src="./assets/languages.light.svg" alt="Language breakdown across public repositories" width="100%">
+</picture><div align="center">💬 Connect with me
+GitHub   •   Instagram   •   Email
+
+<sub>Made with curiosity, code, and a little macOS inspiration. ✨</sub>
 </div>
