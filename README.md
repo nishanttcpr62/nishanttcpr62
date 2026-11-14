@@ -1,20 +1,87 @@
-<h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **Personal Portfolio**
-
-- 🌱 I’m currently learning **C++, Python**
-
-- 💬 Ask me about **Full Stack Developer**
-
-- 📫 How to reach me **nishanttcpr62@gmail.com**
-
-- ⚡ Fun fact **I am a Full Stack Developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_nishaantttt_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nishaantttt_01" height="30" width="40" /></a>
+<!-- GitHub Profile README | Nishant Kumar | github.com/nishanttcpr62 --><div align="center">
+  <h1>Hey there! I'm Nishant Kumar 👋</h1>
+  <h3>Frontend Developer • Full-Stack Learner • Based in India 🇮🇳</h3>
+  <p>
+    I enjoy building clean, responsive websites and turning creative ideas into useful web experiences.
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=900&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=630&amp;lines=Frontend+Developer+%26+Full-Stack+Learner;Building+responsive+web+experiences;Learning+something+new+every+day" alt="Animated introduction: frontend developer and full-stack learner" />
+  </p>
+  <p>
+    <a href="https://github.com/nishanttcpr62?tab=repositories"><img alt="My repositories" src="https://img.shields.io/badge/Explore-My%20Repositories-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+    <a href="mailto:nishanttcpr62@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email-Let's%20Connect-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+    <a href="https://instagram.com/_nishaantttt_01"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" /></a>
+  </p>
+</div>👨‍💻 About me
+- 🔭 Building: a personal portfolio and experimenting with modern website UI/UX.
+- 💻 Focused on: HTML, CSS, responsive design, and JavaScript.
+- 🌱 Learning: C++, Python, and full-stack web development concepts.
+- 🤝 Open to: collaborating on beginner-friendly frontend and open-source projects.
+- 💬 Ask me about: frontend development, web interfaces, and what I'm learning.
+- 📫 Email: nishanttcpr62@gmail.com
+🧰 Tech stack
+Frontend & workflow
+<p>
+  <img alt="HTML5" title="HTML5" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
+  <img alt="CSS3" title="CSS3" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
+  <img alt="JavaScript" title="JavaScript" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
+  <img alt="Bootstrap" title="Bootstrap" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;
+  <img alt="Git" title="Git" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
+  <img alt="GitHub" title="GitHub" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
+Currently exploring
+<p>
+  <img alt="React" title="React" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
+  <img alt="Node.js" title="Node.js" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;
+  <img alt="Express" title="Express" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />&nbsp;
+  <img alt="MongoDB" title="MongoDB" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&nbsp;
+  <img alt="C++" title="C++" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;
+  <img alt="Python" title="Python" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</p>🚀 Featured work
+Project	What it is	Status
+🏛️ Jagdam College website concept	A college website interface concept, currently shared as HTML code in the repository README.	Public repository
+👤 GitHub profile	My developer introduction, projects, and automatically generated analytics.	Public repository
+🌐 Personal Portfolio	A home for my projects, skills, and developer journey.	In progress
+🎓 CampusOS LMS	An ongoing learning project exploring a college learning management system.	In development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+✨ More published projects coming as I build and learn.
+
+📊 GitHub analytics
+These cards are generated by GitHub Actions and stored in this repository. They update automatically after the workflow is set up.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" alt="GitHub overview: public repositories, stars, contributions, and followers" width="100%" />
+</picture>🔥 Contributions & streaks
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" alt="Contribution calendar and current/longest streaks" width="100%" />
+</picture>📈 Contribution activity graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg" />
+  <img src="./assets/momentum.light.svg" alt="Contribution activity over time" width="100%" />
+</picture>🗓️ Contribution history
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
+  <img src="./assets/lifetime.light.svg" alt="Weekly contribution heatmap by year" width="100%" />
+</picture>⌨️ Commit activity graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg" />
+  <img src="./assets/cadence.light.svg" alt="Commit activity by weekday and hour" width="100%" />
+</picture>🏆 Most active repositories
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
+  <img src="./assets/repositories.light.svg" alt="Most active public repositories" width="100%" />
+</picture>💻 Languages in my repositories
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <img src="./assets/languages.light.svg" alt="Programming language distribution in public repositories" width="100%" />
+</picture><div align="center">
+  <h3>🤝 Let's connect</h3>
+  <p>
+    <a href="https://github.com/nishanttcpr62">GitHub</a> •
+    <a href="https://instagram.com/_nishaantttt_01">Instagram</a> •
+    <a href="mailto:nishanttcpr62@gmail.com">Email</a>
+  </p>
+  <sub>Thanks for visiting! Keep learning, keep building. 🚀</sub>
+</div>
